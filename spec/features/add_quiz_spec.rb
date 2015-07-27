@@ -6,6 +6,7 @@ describe "the process of creating a quiz" do
 		click_link "Add a Quiz"
 		fill_in "Name", with: "Math Quiz"
 		click_button "Submit"
+		
 		expect(page).to have_content("Quiz successfully created")
 	end
 end

@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/addyboo/Projects/quiz/spec/features/add_quiz_spec.rb": [
+      "/Users/addyboo/Projects/quiz/spec/features/add_question_spec.rb": [
         1,
         null,
         1,
@@ -10,6 +10,8 @@
         1,
         1,
         1,
+        1,
+        null,
         1,
         null,
         null
@@ -246,20 +248,70 @@
         1,
         1,
         null,
+        null,
+        1,
+        1,
+        1,
+        null,
         null
       ],
       "/Users/addyboo/Projects/quiz/config/routes.rb": [
         1,
         1,
+        1,
+        null,
         null
       ],
       "/Users/addyboo/Projects/quiz/app/helpers/application_helper.rb": [
         1,
         null
       ],
+      "/Users/addyboo/Projects/quiz/spec/features/add_quiz_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/addyboo/Projects/quiz/spec/features/delete_question_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        null
+      ],
       "/Users/addyboo/Projects/quiz/spec/features/delete_quiz_spec.rb": [
         1,
         null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/addyboo/Projects/quiz/spec/features/edit_question_spec.rb": [
+        1,
+        null,
+        1,
+        1,
         1,
         1,
         1,
@@ -286,14 +338,30 @@
         null,
         null
       ],
+      "/Users/addyboo/Projects/quiz/spec/models/question_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        2,
+        null
+      ],
+      "/Users/addyboo/Projects/quiz/app/models/question.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
       "/Users/addyboo/Projects/quiz/spec/models/quiz_spec.rb": [
         1,
         null,
         1,
         2,
+        2,
         null
       ],
       "/Users/addyboo/Projects/quiz/app/models/quiz.rb": [
+        1,
         1,
         1,
         null
@@ -320,7 +388,8 @@
         null,
         null,
         1,
-        2,
+        6,
+        6,
         null,
         null,
         1,
@@ -358,8 +427,68 @@
         null,
         1,
         null
+      ],
+      "/Users/addyboo/Projects/quiz/app/controllers/questions_controller.rb": [
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null
       ]
     },
-    "timestamp": 1437674967
+    "timestamp": 1438020018
   }
 }
