@@ -1,6 +1,6 @@
 <h2><%= @quiz.name %></h2>
 <%= link_to "Add question", new_quiz_question_path(@quiz)  %>
-
+<%= link_to "Edit", edit_quiz_path(@quiz)  %>
 <ul>
 	<% @questions.each do |question| %>
 		<li><%= link_to question.title, quiz_question_path(@quiz, question) %></li>
