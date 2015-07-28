@@ -265,6 +265,14 @@
       ],
       "/Users/addyboo/Projects/quiz/app/helpers/application_helper.rb": [
         1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        null,
+        2,
+        null,
         null
       ],
       "/Users/addyboo/Projects/quiz/spec/features/add_quiz_spec.rb": [
@@ -338,15 +346,29 @@
         null,
         null
       ],
+      "/Users/addyboo/Projects/quiz/spec/models/answer_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        null
+      ],
+      "/Users/addyboo/Projects/quiz/app/models/answer.rb": [
+        1,
+        1,
+        null
+      ],
       "/Users/addyboo/Projects/quiz/spec/models/question_spec.rb": [
         1,
         null,
         1,
         2,
         2,
+        2,
         null
       ],
       "/Users/addyboo/Projects/quiz/app/models/question.rb": [
+        1,
         1,
         1,
         1,
@@ -361,6 +383,7 @@
         null
       ],
       "/Users/addyboo/Projects/quiz/app/models/quiz.rb": [
+        1,
         1,
         1,
         1,
@@ -489,6 +512,6 @@
         null
       ]
     },
-    "timestamp": 1438100521
+    "timestamp": 1438110952
   }
 }
