@@ -4,7 +4,7 @@
 		<ul>
 			<% @quizzes.each do |quiz| %>
 				<li>
-					<%= link_to quiz.name, edit_quiz_path(quiz)  %> - <%= link_to "Delete", quiz_path(quiz), method: :delete %>
+					<%= link_to quiz.name, quiz_path(quiz)  %> - <%= link_to "Delete", quiz_path(quiz), method: :delete %>
 				</li>
 			<% end %>
 		</ul>

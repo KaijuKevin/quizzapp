@@ -9,8 +9,13 @@
 <body>
 <%= flash[:notice] %>
 <%= flash[:alert] %>
-
-<%= yield %>
-
+	<div class="container">
+		<nav class="navbar navbar-default">
+		<ul class="nav navbar-nav">
+			<li><%= link_to "Home", root_path %></li>
+		</ul>
+	</nav>
+		<%= yield %>
+	</div>
 </body>
 </html>

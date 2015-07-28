@@ -259,6 +259,7 @@
         1,
         1,
         1,
+        1,
         null,
         null
       ],
@@ -331,7 +332,6 @@
         1,
         1,
         1,
-        1,
         null,
         1,
         null,
@@ -369,7 +369,7 @@
       "/Users/addyboo/Projects/quiz/app/controllers/quizzes_controller.rb": [
         1,
         1,
-        4,
+        3,
         null,
         null,
         1,
@@ -489,6 +489,6 @@
         null
       ]
     },
-    "timestamp": 1438020018
+    "timestamp": 1438100521
   }
 }
